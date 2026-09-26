@@ -6,7 +6,7 @@
 
 **Aim. Save. Go.** A travel budget planner that gets you from "someday" to departure day.
 
-[**⬇ Download the latest APK**](https://github.com/jedgarf/TripTarget-Releases/releases/latest/download/TripTarget.apk)
+[**⬇ Download the latest APK**](https://triptarget.vercel.app/download)
 
 </div>
 
@@ -29,7 +29,7 @@ This repository hosts the Android app's installable releases. See every version 
 
 ## Installing
 
-1. Download **TripTarget.apk** from the [latest release](https://github.com/jedgarf/TripTarget-Releases/releases/latest).
+1. Download **TripTarget-v&lt;version&gt;.apk** from the [latest release](https://github.com/jedgarf/TripTarget-Releases/releases/latest).
 2. Open the file on your phone. If asked, allow your browser or file manager to install apps.
 3. If Google Play Protect shows a warning, tap **More details → Install anyway**. It shows this for apps installed outside the Play Store.
 4. Open TripTarget and create your free account.
