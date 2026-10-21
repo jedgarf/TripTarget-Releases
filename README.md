@@ -38,4 +38,4 @@ This repository hosts the Android app's installable releases. See every version 
 
 ## Contact
 
-Questions or feedback: [jefdevsolutions@gmail.com](mailto:jefdevsolutions@gmail.com)
+Questions or feedback: [triptarget.jefdevsolutions@gmail.com](mailto:triptarget.jefdevsolutions@gmail.com)
