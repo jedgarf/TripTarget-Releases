@@ -20,7 +20,7 @@ This repository hosts the Android app's installable releases. See every version 
 - A **checklist** with ready-made packing lists, and an **itinerary** planned on a map
 - A **live trip map** with your route, today's budget and the weather
 - Track **expenses** by hand, or by scanning a receipt or a payment screenshot from GCash, Maya or any bank
-- **Group trips:** invite friends with a QR code or by email, chat live (with replies and notifications), see where everyone is, and keep a budget allowance for each traveler
+- **Group trips:** invite friends with a QR code or by email, chat live (with replies, @mentions and notifications), see where everyone is, and keep a budget allowance for each traveler
 - Works **offline** once you're logged in, syncs across phones, and supports fingerprint / Face ID unlock (turn it on to log back in offline; a password login needs internet)
 
 ## Requirements
