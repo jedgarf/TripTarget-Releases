@@ -21,6 +21,7 @@ This repository hosts the Android app's installable releases. See every version 
 - A **live trip map** with your route, today's budget and the weather
 - Track **expenses** by hand, or by scanning a receipt or a payment screenshot from GCash, Maya or any bank
 - **Group trips:** invite friends with a QR code or by email, chat live (with replies, @mentions and notifications), see where everyone is, and keep a budget allowance for each traveler
+- **Updates inside the app:** see what's new and update in a few taps, or get reminded later
 - Works **offline** once you're logged in, syncs across phones, and supports fingerprint / Face ID unlock (turn it on to log back in offline; a password login needs internet)
 
 ## Requirements
@@ -35,7 +36,7 @@ This repository hosts the Android app's installable releases. See every version 
 3. If Google Play Protect shows a warning, tap **More details → Install anyway**. It shows this for apps installed outside the Play Store.
 4. Open TripTarget and create your free account.
 
-**Updating:** from 1.17.0 on, the app tells you when a new version is out and can update itself. You can also install the new APK over the old one. Your trips stay either way, because every release is signed with the same key.
+**Updating:** from 1.17.0 on, the app tells you when a new version is out and can update itself, whenever you're ready. You can also install the new APK over the old one. Your trips stay either way, because every release is signed with the same key.
 
 ## Contact
 
