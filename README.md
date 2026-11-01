@@ -35,7 +35,7 @@ This repository hosts the Android app's installable releases. See every version 
 3. If Google Play Protect shows a warning, tap **More details → Install anyway**. It shows this for apps installed outside the Play Store.
 4. Open TripTarget and create your free account.
 
-**Updating:** install the new APK over the old one. Your trips stay, because every release is signed with the same key.
+**Updating:** from 1.17.0 on, the app tells you when a new version is out and can update itself. You can also install the new APK over the old one. Your trips stay either way, because every release is signed with the same key.
 
 ## Contact
 
