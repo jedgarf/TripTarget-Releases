@@ -6,7 +6,7 @@
 
 **Aim. Save. Go.** A travel budget planner that gets you from "someday" to departure day.
 
-[**⬇ Download the latest APK**](https://triptarget.vercel.app/download)
+[**⬇ Download the latest APK**](https://triptarget.jefbuilds.dev/download)
 
 </div>
 
