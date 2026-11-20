@@ -4,9 +4,11 @@
 
 # TripTarget for Android
 
-**Aim. Save. Go.** A travel budget planner that gets you from "someday" to departure day.
+**Aim. Save. Go.** The all-in-one trip planner that gets you from "someday" to departure day.
 
 [**⬇ Download the latest APK**](https://triptarget.jefbuilds.dev/download)
+
+<img src="preview.jpg" alt="TripTarget: a city-street home screen with the day's budget, and the live trip map" width="100%" />
 
 </div>
 
@@ -20,14 +22,16 @@ This repository hosts the Android app's installable releases. See every version 
 - A **checklist** with ready-made packing lists, and an **itinerary** planned on a map
 - A **live trip map** with your route, today's budget and the weather
 - Track **expenses** by hand, or by scanning a receipt or a payment screenshot from GCash, Maya or any bank
-- **Group trips:** invite friends with a QR code or by email, chat live (with replies, @mentions and notifications), see where everyone is (even when the app is closed, if you choose), and keep a budget allowance for each traveler
+- **Group trips:** start a trip with friends and invite them by QR code or email. Choose a **shared group budget** or **KKB** (everyone pays their own way), keep your own allowance, chat live, and see where everyone is (even when the app is closed, if you choose)
+- **Find each other with no signal:** a GPS compass to a friend's last spot and your meeting point, and call or text the group
+- **A home that follows your day:** a city street that turns to dusk and night with the clock
 - **Updates inside the app:** see what's new and update in a few taps, or get reminded later
 - Works **offline** once you're logged in, syncs across phones, and supports fingerprint / Face ID unlock (turn it on to log back in offline; a password login needs internet)
 
 ## Requirements
 
 - Android 7.0 or newer
-- About 70 MB of free space
+- About 100 MB of free space
 
 ## Installing
 
